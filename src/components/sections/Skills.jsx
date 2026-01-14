@@ -17,11 +17,11 @@ const skillGroups = [
     title: "Shopify & Commerce",
     items: [
       "Shopify Plus · Liquid",
+      "Shopify Admin & Storefront APIs",
+      "Custom App & Third-party App Integration",
       "Metafields · Metaobjects",
-      "Checkout Logic",
-      "Subscriptions & Cart Rules",
-      "Theme Customization",
-      "CRO-driven UI",
+      "Checkout Logic & Cart Rules",
+      "Subscriptions & CRO-driven UI",
     ],
   },
   {
