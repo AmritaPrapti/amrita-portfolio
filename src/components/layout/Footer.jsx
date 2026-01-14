@@ -3,7 +3,7 @@ import Reveal from "@/components/ui/Reveal";
 
 export default function Contact() {
   return (
-    <section id="contact" className="pb-28">
+    <section id="contact" className="sm:pb-28 pb-16">
       <Container>
         <Reveal>
           <p className="text-xs tracking-[0.2em] text-muted">CONTACT</p>
