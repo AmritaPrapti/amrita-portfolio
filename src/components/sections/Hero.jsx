@@ -40,7 +40,7 @@ export default function Hero() {
 
             {/* Tertiary (full width on mobile) */}
             <a
-              href="/Amrita_Pritom_Prapti_Resume.pdf"
+              href="/amrita_pritom_prapti.pdf"
               download
               className="col-span-2 rounded-full border border-line px-5 py-2 text-center text-sm text-muted transition hover:-translate-y-[1px] hover:text-foreground hover:border-foreground sm:col-auto"
             >
