@@ -34,7 +34,7 @@ export default function Contact() {
               </a>
 
               <a
-                href="/Amrita_Pritom_Prapti.pdf"
+                href="/amrita_pritom_prapti.pdf"
                 download
                 className="rounded-full border border-line px-6 py-2 text-sm text-muted transition hover:text-foreground hover:border-foreground"
               >
